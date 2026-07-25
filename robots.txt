@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ny03q0.tiquetesteleferico.top/sitemap.xml
